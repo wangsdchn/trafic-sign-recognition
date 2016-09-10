@@ -1,0 +1,150 @@
+SVM Test Time:
+6.15883
+SVM Test Time:
+6.4053
+SVM train time:
+2167.19
+SVM train time:
+224.052
+SVM Test Time:
+10.373
+SVM Test Time:
+16.3238
+SVM train time:
+307.181
+SVM Test Time:
+19.6381
+SVM Test Time:
+13.5344
+SVM Test Time:
+11.3815
+SVM Test Time:
+11.506
+SVM Test Time:
+11.5969
+SVM train time:
+188.53
+SVM Test Time:
+21.0496
+SVM Test Time:
+13.3983
+SVM Test Time:
+25.809
+SVM train time:
+954.916
+SVM train time:
+228.814
+SVM Test Time:
+16.2753
+SVM train time:
+227.727
+SVM train time:
+221.431
+SVM Test Time:
+10.1308
+SVM Test Time:
+9.96563
+SVM Test Time:
+9.92269
+SVM Test Time:
+9.99571
+SVM Test Time:
+9.84289
+SVM train time:
+307.785
+SVM train time:
+1608.45
+SVM Test Time:
+70.4489
+SVM Test Time:
+516.352
+SVM train time:
+164.478
+SVM Test Time:
+0.895783
+SVM Test Time:
+5.1893
+SVM Test Time:
+5.13022
+SVM Test Time:
+4.60878
+SVM Test Time:
+4.34101
+SVM Test Time:
+4.3481
+SVM train time:
+153.898
+SVM Test Time:
+71.279
+SVM train time:
+11.5444
+SVM train time:
+12.8667
+SVM train time:
+60.0654
+SVM train time:
+11.5273
+SVM train time:
+37.6987
+SVM Test Time:
+80.5563
+SVM train time:
+105.581
+SVM Test Time:
+4.59975
+SVM train time:
+939.593
+SVM train time:
+101.979
+SVM train time:
+390.116
+SVM train time:
+1075.4
+SVM train time:
+439.879
+SVM train time:
+514.261
+SVM train time:
+1653.67
+SVM Test Time:
+34.968
+SVM Test Time:
+7.25277
+SVM train time:
+1630.87
+SVM Test Time:
+13.2014
+SVM Test Time:
+40.7283
+SVM Test Time:
+21.5762
+SVM Test Time:
+21.3921
+SVM Test Time:
+23.9081
+SVM train time:
+17.7548
+SVM train time:
+450.428
+SVM train time:
+1766.91
+SVM train time:
+435.47
+SVM train time:
+473.941
+SVM train time:
+1334.9
+SVM Test Time:
+94.4846
+SVM train time:
+659.06
+SVM train time:
+708.59
+SVM train time:
+1523.35
+SVM train time:
+2930.85
+SVM train time:
+521.113
+SVM Test Time:
+5.50866
