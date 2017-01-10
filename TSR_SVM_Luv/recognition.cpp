@@ -23,7 +23,6 @@ void Recognition(Mat src)
 	vector<float> descriptors;
 
 
-
 	//		VideoCapture cap("../tsr.avi");
 	//		if(!cap.isOpened())
 	//		cout<<"error"<<endl;
