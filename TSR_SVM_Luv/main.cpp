@@ -8,7 +8,7 @@ int main()
 {	
 
 //	SVM_train();
-	/*
+	
 	SVM_test();
 	
 	string path = PATH_GTSRB+"GTSRB/pos.txt";
@@ -23,7 +23,7 @@ int main()
 	posPredictLable.close();
 	negPredictLable.close();
 	cout << n << endl;
-	*/
+	
 	string path1= PATH_GTSRB + "0001.png";
 	Mat src;
 	src = imread(path1);
