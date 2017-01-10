@@ -3,6 +3,7 @@
 
 void ComePare(ifstream &Test, ifstream &posPredictLable, ifstream &negPredictLable,int &n_diff)
 {
+	
 	string buffer;
 	vector<int> imglable;
 	int lable;
